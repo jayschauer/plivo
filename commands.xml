@@ -1,5 +1,3 @@
 <Response>
-  <Speak>
-    Congratulations! You've made your first outbound call!
-  </Speak>
+  <Wait length="240" />
 </Response>
