@@ -1,5 +1,4 @@
 <Response>
-  <Record action="http://example.com/" method="GET" startOnDialAnswer="true" redirect="false"/>
   <Speak>
     Congratulations! You've made your first outbound call!
   </Speak>
